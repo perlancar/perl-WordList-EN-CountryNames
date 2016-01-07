@@ -11,7 +11,9 @@ our @ISA = qw(WordList);
 
 =head1 SEE ALSO
 
-Converted from L<Games::Word::Wordlist::Country> 0.02..
+Converted from L<Games::Word::Wordlist::Country> 0.02.
+
+=cut
 
 __DATA__
 afghanistan
