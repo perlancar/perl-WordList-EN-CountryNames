@@ -6,6 +6,8 @@ package WordList::EN::CountryNames::SingleWord;
 use WordList;
 our @ISA = qw(WordList);
 
+# STATS
+
 1;
 # ABSTRACT: English country names (single-word entries only)
 
